@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+   border: 1px solid black;
+   font-size: 100px;
+   margin: auto;
+ 
+  width: 100%;
+   padding: 20 px;
+    
+}
+input{
+    font-size: 25px;
+   margin: 10px;
+   height :auto
+}
+button{
+    border-radius: 2px;
+    border: black;
+    margin: 10px;
+    margin-top: 1px;
+    height: 45px;
+    width: 100px;
+    font: 50px;
+    background-color: white;
+    border: 1px solid rgb(78, 54, 54);
+  
+}
+body{
+    color: black;
+    background-color:white;
+    display: flexbox;
+   text-align: center;
+}
+p{
+    width: 100%;
+    font-style: italic3;
+    font-size: 35px;
+    border:10px solid black;
+    padding: 20px;
+    margin: auto;
+
+}
+div{
+margin:20px ;
+}
